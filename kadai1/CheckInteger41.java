@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CheckInteger4 {
+public class CheckInteger41 {
     public static void main(String[] args) {
         // Scannerオブジェクトをプログラムから使える状態に準備
         Scanner scanner = new Scanner(System.in);
